@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+h1 {
+  padding: 1rem;
+  padding-top: 2rem;
+  margin: 2rem;
+  font-size: 3rem;
+}
+
+input {
+  width: 50%;
+  text-align: center;
+  height: 5vh;
+}
+
+body {
+  background-color: #9333ea;
+}
+
+.meaning {
+  padding: 2rem;
+  font-weight: bold;
+  font-size: x-large;
+}
+
+.emoji {
+  padding: 0.5rem;
+  font-size: 2rem;
+  cursor: pointer;
+}
+
+.known {
+  padding: 1rem;
+}
