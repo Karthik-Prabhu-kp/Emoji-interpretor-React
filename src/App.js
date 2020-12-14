@@ -39,7 +39,7 @@ export default function App() {
 
       <input
         placeholder="Input emoji here or select from list below"
-        onChange={() => emojiInputHandler(emoji)}
+        onChange={() => emojiInputHandler(event)}
       />
 
       <div class="meaning"> Meaning of emoji : {meaning} </div>
